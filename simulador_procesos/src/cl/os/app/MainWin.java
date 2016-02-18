@@ -33,7 +33,7 @@ public class MainWin extends JFrame{
 		super.add(p3,BorderLayout.SOUTH);
 		
 		super.setVisible(true);
-		super.setLocationRelativeTo(p1);
+		super.setLocationRelativeTo(null);
 		
 	}
 	
